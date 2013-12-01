@@ -1,1 +1,0 @@
-saya membuat kode melalu cat > foo.txt
